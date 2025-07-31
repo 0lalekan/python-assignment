@@ -39,5 +39,7 @@ Enter operator (+, -, x, /): /
 
 3. Follow the prompts.
 
+---
+
 This project is just for practice while learning Python functions, user input, and basic operations.
 Simple, but it works.
