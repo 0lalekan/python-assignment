@@ -33,7 +33,7 @@ Enter operator (+, -, x, /): /
 ```
 
 ## How to Run
-1. Save the file as [calculator.py]().
+1. Save the file as [calculator.py](calculator_ass.py).
 
 2. Run it in your terminal or VS Code:
 
